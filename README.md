@@ -117,16 +117,3 @@ SensorVisualization/
 
 **Problem:** Hand.png not found
 - **Solution:** Make sure Hand.png is in the same directory as sensor_visualizer.py
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
-
-## Author
-
-Created for visualizing multi-sensor finger tracking data.
-
